@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{CtqP:function(e,n,l){"use strict";l.r(n);var t=l("q1tI"),a=l.n(t),c=l("Bl7J");n.default=function(e){return console.log("props:",e),a.a.createElement(c.a,null,a.a.createElement("div",null,a.a.createElement("p",null,"example:dymaic")))}}}]);
